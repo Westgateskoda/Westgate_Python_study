@@ -1,0 +1,2 @@
+#目的：了解git平台的逻辑和VSCODE的逻辑，同时学习使用Python的语法
+#是否要学习一下Markdown的语法
